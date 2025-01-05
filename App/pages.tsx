@@ -1,6 +1,6 @@
-import RiskAssessmentForm from './components/RiskAssessmentForm'
-import FileUpload from './components/FileUpload'
-import Results from './components/Results'
+import RiskAssessmentForm from './frontend/components/RiskAssessmentForm'
+import FileUpload from './frontend/components/FileUpload'
+import Results from './frontend/components/Results'
 
 export default function Home() {
   return (
@@ -24,4 +24,5 @@ export default function Home() {
     </main>
   )
 }
+
 
